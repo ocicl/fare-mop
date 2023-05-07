@@ -1,0 +1,9 @@
+* fare-mop
+
+fare-mop has a few simple utilities relying on the MOP.
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/fare/fare-mop.git |
+| commit  | 538aa94                                  |
+| systems | fare-mop                                 |
+|---------+------------------------------------------|
