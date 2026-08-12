@@ -7,4 +7,4 @@ fare-mop has a few simple utilities relying on the MOP.
 | commit  | 538aa94                                  |
 | systems | fare-mop                                 |
 |---------+------------------------------------------|
- 
+  
